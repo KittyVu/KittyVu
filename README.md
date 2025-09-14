@@ -6,6 +6,6 @@
 - 🌱 Currently learning: **Angular,Vue.js**
 - 🖥️ See my portfolio at  **[Portfolio](https://yourprojectlink.com)**
 - 🎯 Goal: Build scalable, accessible, and engaging web apps
-- 📫 Reach me at:  **[Linkedin](www.linkedin.com/in/xuyen-vu)**
+- 📫 Reach me at:  **[Linkedin](https://linkedin.com/in/xuyen-vu)**
 
 
